@@ -1,0 +1,3 @@
+[submodule "boltz-web"]
+	path = boltz-web
+	url = https://huggingface.co/spaces/muhammadhasyim/boltz-demo
